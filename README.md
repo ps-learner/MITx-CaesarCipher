@@ -20,4 +20,8 @@ This program allows users to encrypt and decrypt messages using the Caesar Ciphe
 - Object-oriented programming (OOP) in Python
 - Writing modular and reusable code
 
+## 🙌 Acknowledgements
 
+- Inspired and guided by the MITx 6.00.1x course on edX.
+- Problem set implementation and customization done independently by Pratyusha Sharma(https://github.com/ps-learner).
+- Huge thanks to the course instructors and the edX platform for providing accessible computer science education.
